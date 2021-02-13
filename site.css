@@ -1,0 +1,43 @@
+body {
+background-color: lightblue
+}
+
+h1 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h2 {
+    color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h3 {
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.about {
+    text-align: center;
+}
+
+.category-menu {
+    width: 200px;
+    text-align: center;
+}
+
+.category-menu a {
+    background-color: peachpuff;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.category-menu a:hover {
+    background-color: lavender;
+}
