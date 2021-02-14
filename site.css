@@ -30,6 +30,12 @@ h4 {
     background-color: peachpuff;
 }
 
+.navbar ul {
+    margin: 0;
+    padding: 0;
+    position: sticky;
+}
+
 .navbar li {
     display: block;
 }
@@ -38,8 +44,8 @@ h4 {
     float: left;
     text-decoration: none;
     color: white;
-    padding: 8px;
-    font-size: 21;
+    padding: 14px 16px;
+    font-size: 18;
 }
 
 .navbar a:hover {
