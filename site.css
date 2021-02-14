@@ -23,6 +23,7 @@ h4 {
 
 .about {
     text-align: center;
+    background-image: 
 }
 
 .navbar {
@@ -33,7 +34,6 @@ h4 {
 .navbar ul {
     margin: 0;
     padding: 0;
-    position: sticky;
 }
 
 .navbar li {
