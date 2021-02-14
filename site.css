@@ -21,17 +21,18 @@ h4 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
-.navbar a {
-    float: left;
+.about {
+    text-align: center;
+}
+
+.navbar {
+    overflow: hidden;
+}
+
+.navbar li {
     display: block;
-    padding: 8px;
-    background-color: peachpuff;
 }
 
-.navbar a:hover {
-    background-color: lavender;
-}
-
-.navbar a:active {
-    background-color: lavenderblush;
+.navbar a {
+    text-decoration: none;
 }
