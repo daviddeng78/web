@@ -51,3 +51,16 @@ h4 {
     background-color: lavender;
     color: black;
 }
+
+.values {
+    border-style: solid;
+    height: 100;
+    width: 200;
+}
+
+.values ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
